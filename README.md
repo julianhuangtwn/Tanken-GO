@@ -11,4 +11,4 @@ Tanken GO is a travel planning platform designed to simplify and personalize tri
 1. Julian Huang | 134161231
 2. Rong Chen | 132356221
 3. Hsien-Ting Liao | 123175226
-4. Suan Yun Wang | 133159228
+4. Shan-Yun Wang | 133159228
