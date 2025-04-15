@@ -8,8 +8,15 @@ Tanken GO is a travel planning platform designed to simplify and personalize tri
 
 # Team Members
 
-1. Julian Huang | 134161231
-2. Anna Sychikova | 
-3. Hsien-Ting Liao | 123175226
+1. Julian Huang 
+2. Anna Sychikova 
+3. Hsien-Ting Liao 
 4. Kisung Chung 
 5. Kaung Khant Zaw 
+
+# Repo
+[Frontend Repo](https://github.com/julianhuangtwn/Tanken-Go-Frontend) <br>
+[Backend Repo](https://github.com/julianhuangtwn/Tanken-GO-Backend)
+
+# Live Website
+Visit our website: [Tanken-Go](https://tanken-go-frontend-7weq.onrender.com/)
