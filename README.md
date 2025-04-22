@@ -6,7 +6,7 @@ Embracing advanced technologies, such as AI-powered tools like ChatGPT, can trem
 
 Tanken GO is a travel planning platform designed to simplify and personalize trips for modern travellers. Gone are the complicated array of options on traditional planning websites. Tanken GO will showcase user-friendly interface, offering tools like customizable itineraries, AI-powered recommendations, and interactive maps, where it allows users to create tailored travel plans. Key features include budget calculators, transportation filters, and the ability to share and rate trip plans. With robust security measures and a strong focus on user privacy, seamless registration options via Google, Facebook, or email, Tanken GO empowers users to craft unforgettable, personalized journeys.  
 
-# Team Members
+# Contributors
 
 1. Julian Huang 
 2. Anna Sychikova 
@@ -19,4 +19,4 @@ Tanken GO is a travel planning platform designed to simplify and personalize tri
 [Backend Repo](https://github.com/julianhuangtwn/Tanken-GO-Backend)
 
 # Live Website
-Visit our website: [Tanken-Go](https://tanken-go-frontend-7weq.onrender.com/)
+Visit our website: [Tanken-Go](https://tanken-go-frontend.onrender.com/)
